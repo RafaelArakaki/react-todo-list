@@ -1,0 +1,31 @@
+.card {
+  background: #FFFFFF;
+	border-radius: 8px;
+	max-width: 400px;
+	width: 90%;
+	margin: 50px auto;
+	box-shadow: 0px 0px 5px 0px rgba(80,133,139,1);
+}
+
+.pd {
+	padding: 20px;
+}
+
+.row {
+	display: flex;
+	gap: 15px;
+}
+
+.item_list {
+	border: 1px solid #CCCCCC;
+	padding: 8px 10px;
+	border-radius: 6px;
+	margin: 5px 0px;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+.ml_auto {
+	margin-left: auto;
+}
